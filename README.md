@@ -17,7 +17,7 @@ Microsoft.Azure.CoginitiveServices.Vision.Computer Vision
 
 WindowsAzure.Storage
 
-In ImageUploadController you might need to add your own _blobContainerName string because you'll need to create a new container for yor blob storage.
+In ImageUploadController you might need to add your own _blobContainerName string because you'll need to create a new container for your blob storage.
 
 Application uses .NET Core for back end and React for front end. It still has default pages, the new one added is Upload Images tab. No CSS was added.
 The app doesn't upload multiple images at once. 
