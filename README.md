@@ -12,7 +12,7 @@ Next, create a Computer Vision resource and add COMPUTER_VISION_SUBSCRIPTION_KEY
 
 https://portal.azure.com/#create/Microsoft.CognitiveServicesComputerVision
 
-Make sure you have the following NuGet packages in case they don't install as dependecies: 
+Make sure you have the following NuGet packages in case they don't install as dependencies: 
 Microsoft.Azure.CoginitiveServices.Vision.Computer Vision
 
 WindowsAzure.Storage
