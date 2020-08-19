@@ -21,3 +21,5 @@ In ImageUploadController you might need to add your own _blobContainerName strin
 
 Application uses .NET Core for back end and React for front end. It still has default pages, the new one added is Upload Images tab. No CSS was added.
 The app doesn't upload multiple images at once. 
+
+Note: you might need to run "npm install axios" through Package Manager Console in Visual Studio on Windows, if you are on Mac navigate to app directory and run "npm init" and "npm install axios". No need to enter anything in npm init steps. 
